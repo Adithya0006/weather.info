@@ -254,3 +254,12 @@ img {
   margin-top: 20px;
   text-align: left;
 }
+#submitbutton{
+  width: 50px;
+  color: white;
+  background-color: #5598fd;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+
+}
